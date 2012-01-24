@@ -1,0 +1,31 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h3 {
+	margin: 0 0 5px 0;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul li {
+	margin: 0;
+	padding: 10px;
+}
+
+ul li:nth-child(even) {
+	background: #cfffce;
+}
+
+button {
+	padding: 10px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background: #eee;
+	font-size: 0.8em;
+}
